@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="age" />
+    <string name="first_name" />
+    <string name="last_name" />
+    <string name="id" />
+</resources>
